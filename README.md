@@ -1,4 +1,4 @@
-# homework-accessibility
+# accessible-webpage
 
 Edited the provided HTML and CSS to meet accesibility requirements, including use of semantic html elements, alt attributes on images, organizing the structure, and adding an appropriate title.
 
